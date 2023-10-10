@@ -93,4 +93,4 @@ document.getElementsByClassName("container")[0].innerHTML = `
     </div>
 `
 }
-loadQuestion(index);
+loadQuestion(index);th
